@@ -1,6 +1,6 @@
+![Web Developer ](https://pbs.twimg.com/profile_banners/1668303331587137536/1686594255/1080x360)
 ### Hi there 👋, I'm Emon Hassan
 #### Web Developer 
-![Web Developer ](https://pbs.twimg.com/profile_banners/1668303331587137536/1686594255/1080x360)
 
 I am a passionate and driven junior web developer with a strong foundation in HTML, CSS, JavaScript, and React eager to contribute to dynamic and collaborative web development projects. I love solving real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I enjoy working with includes ReactJS as well as JavaScript.
 
