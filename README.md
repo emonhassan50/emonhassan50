@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/330360983_644944930725661_7126380729802298495_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0Oekz0LFYeQAX8avffm&_nc_ht=scontent.fdac135-1.fna&oh=00_AfDYfavo0YO0TLSp-7iOJty8z63hjrsQdb-sKdI1r91tqA&oe=648BF4F8)
-
 ### Hi there 👋, I'm Emon Hassan
 #### Web Developer
 
