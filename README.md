@@ -1,4 +1,5 @@
-[[![Web Developer ](https://pbs.twimg.com/profile_banners/1668303331587137536/1686594255/1080x360)](https://media.licdn.com/dms/image/D5616AQHAIaedtqDWGQ/profile-displaybackgroundimage-shrink_350_1400/0/1687291092511?e=1700697600&v=beta&t=1guHhJzQaECGoBeymZyCAJSZJuEqz4O7DJeqDOhgc_4)](https://media.licdn.com/dms/image/D5616AQHAIaedtqDWGQ/profile-displaybackgroundimage-shrink_350_1400/0/1687291092511?e=1700697600&v=beta&t=1guHhJzQaECGoBeymZyCAJSZJuEqz4O7DJeqDOhgc_4)
+![Black and White Modern Linkedin Banner (1)](https://github.com/emonhassan83/emonhassan83/assets/109459931/317fb933-be61-4f8b-8a13-05af9e0f13a1)
+
 ### Hi there 👋, I'm Emon Hassan
 #### Web Developer 
 
