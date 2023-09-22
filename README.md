@@ -5,7 +5,7 @@
 
 I am a passionate and driven junior web developer with a strong foundation in HTML, CSS, JavaScript, and React eager to contribute to dynamic and collaborative web development projects. I love solving real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I enjoy working with includes ReactJS as well as JavaScript.
 
-Skills: MongoDB / NODE JS / REACT / JS / HTML / CSS
+**Skills:** JavaScript / React JS / Node JS / MongoDB / Redux / Next JS
 
 - 🔭 I’m currently working on learning web development 
 - 🌱 I’m currently learning Next.js 
