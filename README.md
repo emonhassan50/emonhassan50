@@ -19,9 +19,5 @@ Skills: MongoDB / NODE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emonhassan83&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emonhassan83)  
-
-![GitHub metrics](https://metrics.lecoq.io/emonhassan83)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emonhassan83)  
 
