@@ -49,6 +49,40 @@
 - 💬 Ask me about Web Development 
 - 📫 How to reach me **emonhasan7650@gmail.com**
 
+### :chart_with_upwards_trend:  My Stats
+###
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=emonhassan83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&border_radius=0" height="160em" alt="stats graph"  /> 
+  <br> -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahammed&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" height="163em" /> 
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" height="160em" /> 
+  <br>
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
+</div>
+
+<!-- <br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emonhassan83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimahammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="126" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="219" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonhassan83username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" height="180em" />
+</div> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhassan83)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emonhassan83&show_icons=true&count_private=true)  
