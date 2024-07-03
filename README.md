@@ -80,12 +80,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonhassan83username=emonhassan83&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonhassan83&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonhassan83theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonhassan83&theme=dark" height="180em" />
 </div> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhassan83)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emonhassan83&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=emonhassan83)  
-
